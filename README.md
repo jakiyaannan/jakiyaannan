@@ -5,7 +5,7 @@
 
 I'm a Computer Science and Engineering (CSE) student at Independent University, Bangladesh (IUB), currently doing an internship to gain practical experience in software development.
 
-I'm passionate about web development, exploring new technologies, and improving my programming and problem-solving skills.
+I'm passionate about web development, exploring new technologies and improving my programming and problem-solving skills.
 ---
 
 ## 🌐 Socials
